@@ -34,6 +34,7 @@ console.log(confirmation);
             console.log("Dear "+Name+ ",Your Body Mass Index is-Obese!") 
         }
         
-            else {
-            console.log("Dear "+Name+ ",Your Body Mass Index is-Extremly Obese!") 
-            }
+        else 
+       {
+           console.log("Dear "+Name+ ",Your Body Mass Index is-Extremly Obese!") 
+       }
