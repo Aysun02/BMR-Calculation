@@ -19,18 +19,21 @@ console.log(confirmation);
         console.log("Dear "+Name+ ",Your Body Mass Index is-UnderWeight!") 
         }
         
-        else if (Calculate>18.5 && Calculate<=24.9) {
-            console.log("Dear "+Name+ ",Your Body Mass Index is-Normal!") }
+        else if (Calculate>18.5 && Calculate<=24.9) 
+        {
+            console.log("Dear "+Name+ ",Your Body Mass Index is-Normal!") 
+        }
         
-        else if (Calculate>=25 && Calculate<=29.9) {
-            console.log("Dear "+Name+ ",Your Body Mass Index is-OverWeight!") }
+        else if (Calculate>=25 && Calculate<=29.9) 
+        {
+            console.log("Dear "+Name+ ",Your Body Mass Index is-OverWeight!") 
+        }
         
-        else if (Calculate>=30 && Calculate<=34.9) {
-            console.log("Dear "+Name+ ",Your Body Mass Index is-Obese!") }
+        else if (Calculate>=30 && Calculate<=34.9) 
+        {
+            console.log("Dear "+Name+ ",Your Body Mass Index is-Obese!") 
+        }
         
             else {
-            console.log("Dear "+Name+ ",Your Body Mass Index is-Extremly Obese!") }
-    
-    
-    
-    
+            console.log("Dear "+Name+ ",Your Body Mass Index is-Extremly Obese!") 
+            }
